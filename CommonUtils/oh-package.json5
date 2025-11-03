@@ -1,0 +1,24 @@
+{
+  "name": "commonutils",
+  "version": "1.0.0",
+  "description": "OpenHarmony 综合工具包，提供丰富的工具类和组件",
+  "main": "Index.ets",
+  "author": "1090504489@qq.com",
+  "license": "Apache-2.0",
+  "keywords": [
+    "harmonyos",
+    "openharmony",
+    "utils",
+    "tools",
+    "components"
+  ],
+  "homepage": " https://github.com/yourorg/common-utils ",
+  "artifactType": "original",
+  "files": [
+    "Index.ets",
+    "src/**/*",
+    "README.md",
+    "CHANGELOG.md",
+    "LICENSE"
+  ]
+}
